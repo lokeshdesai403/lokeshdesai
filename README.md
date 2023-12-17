@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🌱 Specializing in software development for clients in the USA, UK, Canada, etc.<br>- 🔭 Currently working on Artificial Intelligence and Machine Learning<br>- 🌐 Visit my https://lokeshdesai.dev/ for more information<br>- 📫 How to reach me: [Email Address](mailto:https://lokeshdesai.dev/)
+🌱 Specializing in software development for clients in the USA, UK, Canada, etc.<br> 🔭 Currently working on Artificial Intelligence and Machine Learning<br> 🌐 Visit my https://lokeshdesai.dev/ for more information<br> 📫 How to reach me: [lokesh.desai403@gmail.com](mailto:lokesh.desai403@gmail.com)
 
 
 ## 🌐 Socials:
